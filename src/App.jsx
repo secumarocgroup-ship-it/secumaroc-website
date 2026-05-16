@@ -1,3 +1,8 @@
 export default function App() {
-  return <h1>SecuMaroc Works</h1>
+  return (
+    <div>
+      <h1>SecuMaroc</h1>
+      <button>WhatsApp</button>
+    </div>
+  )
 }
